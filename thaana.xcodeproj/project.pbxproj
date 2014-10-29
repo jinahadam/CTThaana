@@ -13,6 +13,8 @@
 		80ADC0CC1A009BCA00666C25 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 80ADC0CB1A009BCA00666C25 /* Images.xcassets */; };
 		80ADC0CF1A009BCA00666C25 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 80ADC0CD1A009BCA00666C25 /* LaunchScreen.xib */; };
 		80ADC0DB1A009BCA00666C25 /* thaanaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80ADC0DA1A009BCA00666C25 /* thaanaTests.swift */; };
+		80ADC0E81A00A6B800666C25 /* Faseyha.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 80ADC0E71A00A6B800666C25 /* Faseyha.ttf */; };
+		80ADC0EA1A00B27F00666C25 /* MV_Faseyha.otf in Resources */ = {isa = PBXBuildFile; fileRef = 80ADC0E91A00B27F00666C25 /* MV_Faseyha.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		80ADC0D41A009BCA00666C25 /* thaanaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = thaanaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		80ADC0D91A009BCA00666C25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		80ADC0DA1A009BCA00666C25 /* thaanaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thaanaTests.swift; sourceTree = "<group>"; };
+		80ADC0E71A00A6B800666C25 /* Faseyha.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Faseyha.ttf; sourceTree = "<group>"; };
+		80ADC0E91A00B27F00666C25 /* MV_Faseyha.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MV_Faseyha.otf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +86,8 @@
 				80ADC0C81A009BCA00666C25 /* Main.storyboard */,
 				80ADC0CB1A009BCA00666C25 /* Images.xcassets */,
 				80ADC0CD1A009BCA00666C25 /* LaunchScreen.xib */,
+				80ADC0E91A00B27F00666C25 /* MV_Faseyha.otf */,
+				80ADC0E71A00A6B800666C25 /* Faseyha.ttf */,
 				80ADC0C21A009BCA00666C25 /* Supporting Files */,
 			);
 			path = thaana;
@@ -194,7 +200,9 @@
 			files = (
 				80ADC0CA1A009BCA00666C25 /* Main.storyboard in Resources */,
 				80ADC0CF1A009BCA00666C25 /* LaunchScreen.xib in Resources */,
+				80ADC0E81A00A6B800666C25 /* Faseyha.ttf in Resources */,
 				80ADC0CC1A009BCA00666C25 /* Images.xcassets in Resources */,
+				80ADC0EA1A00B27F00666C25 /* MV_Faseyha.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -43,5 +43,10 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Faseyha.ttf</string>
+		<string>MV_Faseyha.otf</string>
+	</array>
 </dict>
 </plist>
